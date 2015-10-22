@@ -1,0 +1,27 @@
+body,td{
+    font-family:tahoma,verdana,arial;
+    font-size:11px;
+    line-height:15px;
+    background-color:white;color:#666666;
+}
+strong{
+    font-size:12px;
+}
+a:link{
+    color:#0066CC;
+}
+a:hover{
+    color:#FF6600;
+}
+a:visited{
+    color:#003366;
+}
+a:active{
+    color:#9DCC00;
+}
+a{
+    TEXT-DECORATION:none
+}
+td.irows{
+    height:20px;background:url("/index.php?i=dots") repeat-x bottom
+}
